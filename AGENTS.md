@@ -1,0 +1,1 @@
+Follow DESIGN.md. Keep sources in the parent directory read-only. Preserve source provenance and actual collection timestamps. Never silently relabel snapshots as live or infer individual investor check sizes. Changes to calculations require focused tests.
